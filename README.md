@@ -11,4 +11,4 @@ In the MyWindowListener.java file,tere is the code for the window, which is call
 2.Yingying Yu：yuyingying-666   (branch:yuyingying)
 ##other features
 
-[![Build Status](https://travis-ci.com/xiaozhaoye/251-Assignment-Hengyi-Yingying-master.svg?branch=main)](https://travis-ci.com/xiaozhaoye/251-Assignment-Hengyi-Yingying-master)
+[![Build Status](https://travis-ci.com/xiaozhaoye/251-Assignment-Hengyi-Yingying-master.svg?branch=master)](https://travis-ci.com/xiaozhaoye/251-Assignment-Hengyi-Yingying-master)
