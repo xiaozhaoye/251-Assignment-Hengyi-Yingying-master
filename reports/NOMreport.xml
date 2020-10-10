@@ -1,0 +1,52 @@
+<METRICS profile="Number of files metrics" timestamp="����, 9 10�� 2020 23:07:26 CST">
+	<METRIC category="Module" name="Number of files" abbreviation="FILES">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Groovy files" abbreviation="Groovy">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of HTML files" abbreviation="HTML">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Java files" abbreviation="J">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="4.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Kotlin files" abbreviation="KT">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Scala files" abbreviation="SCALA">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of XML files" abbreviation="XML">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="2.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Number of files" abbreviation="FILES">
+		<VALUE measured="Java" value="4.0"/>
+		<VALUE measured="Text" value="1.0"/>
+		<VALUE measured="YAML" value="1.0"/>
+		<VALUE measured=".gitignore (GitIgnore)" value="1.0"/>
+		<VALUE measured="XML" value="2.0"/>
+		<VALUE measured="Markdown" value="1.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of files" abbreviation="FILES">
+		<VALUE measured="project" value="10.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Groovy files" abbreviation="Groovy">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of HTML files" abbreviation="HTML">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Java files" abbreviation="J">
+		<VALUE measured="project" value="4.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Kotlin files" abbreviation="KT">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Scala files" abbreviation="SCALA">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of XML files" abbreviation="XML">
+		<VALUE measured="project" value="2.0"/>
+	</METRIC>
+</METRICS>

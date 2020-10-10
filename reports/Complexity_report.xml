@@ -1,0 +1,83 @@
+<METRICS profile="Complexity metrics" timestamp="����, 9 10�� 2020 23:10:32 CST">
+	<METRIC category="Method" name="Essential cyclomatic complexity" abbreviation="ev(G)">
+		<VALUE measured="MyWindowListener.windowActivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowIconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosed(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestNew()" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowOpened(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction1(String,String)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowDeactivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosing(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestSearch()" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowDeiconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.OPENfunction(File)" value="1.0"/>
+		<VALUE measured="Function.SAVEfunction(File,String)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction2(String,String)" value="1.0"/>
+		<VALUE measured="Main.main(String[])" value="3.0"/>
+		<VALUE measured="test1.TestSave()" value="1.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Design complexity" abbreviation="iv(G)">
+		<VALUE measured="MyWindowListener.windowActivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowIconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosed(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestNew()" value="2.0"/>
+		<VALUE measured="MyWindowListener.windowOpened(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction1(String,String)" value="3.0"/>
+		<VALUE measured="MyWindowListener.windowDeactivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosing(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestSearch()" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowDeiconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.OPENfunction(File)" value="2.0"/>
+		<VALUE measured="Function.SAVEfunction(File,String)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction2(String,String)" value="3.0"/>
+		<VALUE measured="Main.main(String[])" value="5.0"/>
+		<VALUE measured="test1.TestSave()" value="2.0"/>
+	</METRIC>
+	<METRIC category="Method" name="Cyclomatic complexity" abbreviation="v(G)">
+		<VALUE measured="MyWindowListener.windowActivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowIconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosed(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestNew()" value="2.0"/>
+		<VALUE measured="MyWindowListener.windowOpened(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction1(String,String)" value="3.0"/>
+		<VALUE measured="MyWindowListener.windowDeactivated(WindowEvent)" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowClosing(WindowEvent)" value="1.0"/>
+		<VALUE measured="test1.TestSearch()" value="1.0"/>
+		<VALUE measured="MyWindowListener.windowDeiconified(WindowEvent)" value="1.0"/>
+		<VALUE measured="Function.OPENfunction(File)" value="2.0"/>
+		<VALUE measured="Function.SAVEfunction(File,String)" value="1.0"/>
+		<VALUE measured="Function.SEARCHfunction2(String,String)" value="3.0"/>
+		<VALUE measured="Main.main(String[])" value="9.0"/>
+		<VALUE measured="test1.TestSave()" value="2.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Average operation complexity" abbreviation="OCavg">
+		<VALUE measured="MyWindowListener" value="1.0"/>
+		<VALUE measured="test1" value="1.6666666666666667"/>
+		<VALUE measured="Function" value="2.25"/>
+		<VALUE measured="Main" value="1.375"/>
+	</METRIC>
+	<METRIC category="Class" name="Weighted method complexity" abbreviation="WMC">
+		<VALUE measured="MyWindowListener" value="7.0"/>
+		<VALUE measured="test1" value="5.0"/>
+		<VALUE measured="Function" value="9.0"/>
+		<VALUE measured="Main" value="11.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="" value="2.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="" value="30.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="2.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="30.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Average cyclomatic complexity" abbreviation="v(G)avg">
+		<VALUE measured="project" value="2.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Total cyclomatic complexity" abbreviation="v(G)tot">
+		<VALUE measured="project" value="30.0"/>
+	</METRIC>
+</METRICS>

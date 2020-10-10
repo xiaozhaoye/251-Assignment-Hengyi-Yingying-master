@@ -1,0 +1,113 @@
+<METRICS profile="Lines of code metrics" timestamp="����, 9 10�� 2020 23:04:52 CST">
+	<METRIC category="Package" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="" value="289.0"/>
+		<VALUE measured="temples" value="9.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of code (recursive)" abbreviation="LOC(rec)">
+		<VALUE measured="" value="298.0"/>
+		<VALUE measured="temples" value="9.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="" value="256.0"/>
+		<VALUE measured="temples" value="9.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of product code (recursive)" abbreviation="LOCp(rec)">
+		<VALUE measured="" value="265.0"/>
+		<VALUE measured="temples" value="9.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="" value="33.0"/>
+		<VALUE measured="temples" value="0.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Lines of test code (recursive)" abbreviation="LOCt(rec)">
+		<VALUE measured="" value="33.0"/>
+		<VALUE measured="temples" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="289.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of Scala" abbreviation="L(SCALA)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="34.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="356.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="265.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="33.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="331.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="241.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="251-Assignment-Hengyi-Yingying-yuyingying" value="33.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="Java" value="289.0"/>
+		<VALUE measured="Text" value="1.0"/>
+		<VALUE measured="YAML" value="9.0"/>
+		<VALUE measured=".gitignore (GitIgnore)" value="2.0"/>
+		<VALUE measured="XML" value="34.0"/>
+		<VALUE measured="Markdown" value="21.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="Java" value="265.0"/>
+		<VALUE measured="YAML" value="9.0"/>
+		<VALUE measured=".gitignore (GitIgnore)" value="2.0"/>
+		<VALUE measured="XML" value="34.0"/>
+		<VALUE measured="Markdown" value="21.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Groovy" abbreviation="L(Groovy)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of HTML" abbreviation="L(HTML)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Java" abbreviation="L(J)">
+		<VALUE measured="project" value="289.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Kotlin" abbreviation="L(KT)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of Scala" abbreviation="L(SCALA)">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of XML" abbreviation="L(XML)">
+		<VALUE measured="project" value="34.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of code" abbreviation="LOC">
+		<VALUE measured="project" value="356.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of product code" abbreviation="LOCp">
+		<VALUE measured="project" value="265.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Lines of test code" abbreviation="LOCt">
+		<VALUE measured="project" value="33.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code" abbreviation="NCLOC">
+		<VALUE measured="project" value="331.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (product)" abbreviation="NCLOCp">
+		<VALUE measured="project" value="241.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Non-comment lines of code (test)" abbreviation="NCLOCt">
+		<VALUE measured="project" value="33.0"/>
+	</METRIC>
+</METRICS>
